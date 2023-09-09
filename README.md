@@ -5,7 +5,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/enokseth/GVoiceKiller.svg?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/enokseth.svg?style=social)
 
-A script to remove the HotWord "Ok Google" and Quick Search Box application from your Android device.
+A script to remove the `HotWord`  `Ok Google`  and `Quick Search Box`  application `from`  your `Android device` 
 
 ## Customization
 
@@ -13,18 +13,22 @@ The script consists of two main parts: `customize.sh` and `service.sh`.
 
 ### customize.sh
 
-This script is executed during the module installation. It performs the following operations:
+This script is `executed during the module installation` 
+
+It performs the following operations:
 
 1. Checks the device architecture.
 2. Unmounts Quick Search Box mounts if they exist.
 3. Force stops the Quick Search Box application.
 4. Checks if the Quick Search Box application is installed.
-5. If the Quick Search Box application does not have version "1.0.0," it uninstalls it.
+5. `If` the `Quick Search Box` application `does not have version 1.0.0`, it uninstalls it.
 6. Cleans up temporary files.
 
 ### service.sh
 
-This script is executed on device boot. It performs the following operations:
+This script is executed on device boot for ensure app is been deleted ( future feature `post-fs.sh [add persistance ]` ). 
+
+It performs the following operations:
 
 1. Waits for the device boot to complete.
 2. Waits for the `/sdcard/Android` folder to be available.
@@ -36,7 +40,7 @@ This script is executed on device boot. It performs the following operations:
 
 1. Install the module on your Android device using Magisk Manager.
 2. Reboot your device to activate the boot service.
-3. The HotWord "Ok Google" and Quick Search Box applications will be removed on boot.
+3. The HotWord `Ok Google` and `Quick Search Box` applications will be removed and reboot.
 
 ## Contributors
 
