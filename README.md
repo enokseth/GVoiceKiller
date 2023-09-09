@@ -40,7 +40,7 @@ It performs the following operations:
 
 ## Usage
 
-1. Install the module on your Android device using Magisk Manager.
+1. `Install the module on your Android device using Magisk Manager`.
 2. Reboot your device to activate the boot service.
 3. The HotWord `Ok Google` and `Quick Search Box` applications `will be removed` and reboot.
 
