@@ -1,9 +1,9 @@
 # GVoiceKiller
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/GVoiceKiller.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/GVoiceKiller.svg?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/GVoiceKiller.svg?style=social)
-![GitHub followers](https://img.shields.io/github/followers/yourusername.svg?style=social)
+![GitHub stars](https://img.shields.io/github/stars/enokseth/GVoiceKiller.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/enokseth/GVoiceKiller.svg?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/enokseth/GVoiceKiller.svg?style=social)
+![GitHub followers](https://img.shields.io/github/followers/enokseth.svg?style=social)
 
 A script to remove the HotWord "Ok Google" and Quick Search Box application from your Android device.
 
