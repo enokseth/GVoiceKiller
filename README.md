@@ -26,7 +26,9 @@ It performs the following operations:
 
 ### service.sh
 
-This script is executed on device boot for ensure app is been deleted ( future feature `post-fs.sh [add persistance ]` ). 
+This script is executed on device boot for ensure app is been deleted.
+
+( future feature `post-fs.sh [add persistance ]` ). 
 
 It performs the following operations:
 
