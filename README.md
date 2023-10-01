@@ -28,7 +28,7 @@ It performs the following operations:
 
 This script is `executed on device boot` for `ensure app is been deleted`.
 
-( future feature `post-fs.sh [add persistance ]` ). 
+( future feature `post-fs.sh [add persistance ]` and `Spoof` `Google App` removed for permit installation of `Google Lens` by replacing `Google ap` by `Troll-Sign.apk` ). 
 
 It performs the following operations:
 
